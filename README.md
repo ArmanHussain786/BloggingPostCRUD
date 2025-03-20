@@ -15,6 +15,7 @@ This is a simple **RESTful API** for a personal blogging platform, built using *
 
 ## 🚀 Project Page URL
 🔗 **[View Project on GitHub](https://github.com/ArmanHussain786/BloggingPostCRUD)**
+🔗 **Project Roadmap**: [Blogging Platform API Roadmap](https://roadmap.sh/projects/blogging-platform-api)
 
 ## 🛠️ Tech Stack
 - **Backend**: Java, Spring Boot, Spring Data JPA
