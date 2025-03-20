@@ -13,6 +13,9 @@ This is a simple **RESTful API** for a personal blogging platform, built using *
 
 ---
 
+## 🚀 Project Page URL
+🔗 **[View Project on GitHub](https://github.com/ArmanHussain786/BloggingPostCRUD)**
+
 ## 🛠️ Tech Stack
 - **Backend**: Java, Spring Boot, Spring Data JPA
 - **Database**: MySQL (Production)
@@ -29,5 +32,4 @@ This is a simple **RESTful API** for a personal blogging platform, built using *
 ```bash
 git clone https://github.com/ArmanHussain786/BloggingPostCRUD
 
-## 🚀 Project Page URL
-🔗 **[View Project on GitHub](https://github.com/ArmanHussain786/BloggingPostCRUD)**  
+
