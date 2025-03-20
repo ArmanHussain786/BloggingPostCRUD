@@ -28,3 +28,6 @@ This is a simple **RESTful API** for a personal blogging platform, built using *
 ### **2️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/ArmanHussain786/BloggingPostCRUD
+
+## 🚀 Project Page URL
+🔗 **[View Project on GitHub](https://github.com/ArmanHussain786/BloggingPostCRUD)**  
